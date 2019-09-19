@@ -1,6 +1,6 @@
 {
     "mode": "history",
-    "base": "/",
+    "base": "cnode-webapp/",
     "routes": [
         {
             "path": "/appshell",

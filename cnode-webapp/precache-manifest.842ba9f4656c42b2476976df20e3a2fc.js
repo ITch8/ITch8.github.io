@@ -4,11 +4,11 @@ self.__precacheManifest = [
     "url": "./static/js/vendor.7c000970.js"
   },
   {
-    "revision": "0155a41075eedfeaae3d",
-    "url": "./static/js/index.0155a410.js"
+    "revision": "f981a4f8137e7a6b6137",
+    "url": "./static/js/index.f981a4f8.js"
   },
   {
-    "revision": "0155a41075eedfeaae3d",
+    "revision": "f981a4f8137e7a6b6137",
     "url": "./static/css/index.1dd7fd66.css"
   },
   {
@@ -28,12 +28,24 @@ self.__precacheManifest = [
     "url": "./static/img/icons/android-chrome-512x512.png"
   },
   {
-    "revision": "83409fb3fe88cb94d7d3df5fe97569c9",
-    "url": "./static/img/icons/apple-touch-icon-152x152.png"
+    "revision": "4dc6fdc67611efce36a3c500cbe1c0ec",
+    "url": "./static/img/icons/apple-touch-icon-60x60.png"
+  },
+  {
+    "revision": "588079df8f1b8fde3b3cd691ee65bf06",
+    "url": "./static/img/icons/apple-touch-icon-76x76.png"
   },
   {
     "revision": "b451e38c6ee4b03781b1019c518e7894",
     "url": "./static/img/icons/apple-touch-icon-120x120.png"
+  },
+  {
+    "revision": "83409fb3fe88cb94d7d3df5fe97569c9",
+    "url": "./static/img/icons/apple-touch-icon-152x152.png"
+  },
+  {
+    "revision": "047f3021e153c19951f86dd209904243",
+    "url": "./static/img/icons/favicon-32x32.png"
   },
   {
     "revision": "3742528143340e36915adf388d64060f",
@@ -44,16 +56,8 @@ self.__precacheManifest = [
     "url": "./static/img/icons/apple-touch-icon-180x180.png"
   },
   {
-    "revision": "588079df8f1b8fde3b3cd691ee65bf06",
-    "url": "./static/img/icons/apple-touch-icon-76x76.png"
-  },
-  {
-    "revision": "4dc6fdc67611efce36a3c500cbe1c0ec",
-    "url": "./static/img/icons/apple-touch-icon-60x60.png"
-  },
-  {
-    "revision": "047f3021e153c19951f86dd209904243",
-    "url": "./static/img/icons/favicon-32x32.png"
+    "revision": "7264d2ec7553bb96307af4acbe697faf",
+    "url": "./static/img/icons/favicon.ico"
   },
   {
     "revision": "fd925e78b4df883980a7e32f6a0b99b3",
@@ -61,14 +65,10 @@ self.__precacheManifest = [
   },
   {
     "revision": "7264d2ec7553bb96307af4acbe697faf",
-    "url": "./static/img/icons/favicon.ico"
-  },
-  {
-    "revision": "7264d2ec7553bb96307af4acbe697faf",
     "url": "./favicon.ico"
   },
   {
-    "revision": "e88f7a62357bed895bb29bacefc9ccb7",
+    "revision": "1a2edc570e2d8fe01cab3fd9f85c0ace",
     "url": "./index.html"
   }
 ];
