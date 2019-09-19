@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.4cf65ce67961e103ce550a0e28d26025.js");
+importScripts("/precache-manifest.a8488848c84c89fa585cf7f67494fc63.js");
 
 
         importScripts('/static/workbox-v3.6.3/workbox-sw.js');

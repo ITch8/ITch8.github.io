@@ -4,11 +4,11 @@ self.__precacheManifest = [
     "url": "/static/js/vendor.7c000970.js"
   },
   {
-    "revision": "ba9c84f465f4b017e55f",
-    "url": "/static/js/index.ba9c84f4.js"
+    "revision": "93cf126507e79f69e298",
+    "url": "/static/js/index.93cf1265.js"
   },
   {
-    "revision": "ba9c84f465f4b017e55f",
+    "revision": "93cf126507e79f69e298",
     "url": "/static/css/index.1dd7fd66.css"
   },
   {
@@ -40,16 +40,12 @@ self.__precacheManifest = [
     "url": "/static/img/icons/apple-touch-icon-180x180.png"
   },
   {
-    "revision": "4dc6fdc67611efce36a3c500cbe1c0ec",
-    "url": "/static/img/icons/apple-touch-icon-60x60.png"
-  },
-  {
     "revision": "588079df8f1b8fde3b3cd691ee65bf06",
     "url": "/static/img/icons/apple-touch-icon-76x76.png"
   },
   {
-    "revision": "047f3021e153c19951f86dd209904243",
-    "url": "/static/img/icons/favicon-32x32.png"
+    "revision": "4dc6fdc67611efce36a3c500cbe1c0ec",
+    "url": "/static/img/icons/apple-touch-icon-60x60.png"
   },
   {
     "revision": "3742528143340e36915adf388d64060f",
@@ -60,6 +56,10 @@ self.__precacheManifest = [
     "url": "/static/img/icons/favicon.ico"
   },
   {
+    "revision": "047f3021e153c19951f86dd209904243",
+    "url": "/static/img/icons/favicon-32x32.png"
+  },
+  {
     "revision": "fd925e78b4df883980a7e32f6a0b99b3",
     "url": "/static/manifest.json"
   },
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/favicon.ico"
   },
   {
-    "revision": "52eba3a8df1d73ae0de5a6b6ef3a12f3",
+    "revision": "a56ee6c5aff725a5cb4c6f8ffc560f8e",
     "url": "/index.html"
   }
 ];
