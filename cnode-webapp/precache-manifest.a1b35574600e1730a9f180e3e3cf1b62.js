@@ -4,11 +4,11 @@ self.__precacheManifest = [
     "url": "./static/js/vendor.7c000970.js"
   },
   {
-    "revision": "f981a4f8137e7a6b6137",
-    "url": "./static/js/index.f981a4f8.js"
+    "revision": "58cda173f6eb2aed1544",
+    "url": "./static/js/index.58cda173.js"
   },
   {
-    "revision": "f981a4f8137e7a6b6137",
+    "revision": "58cda173f6eb2aed1544",
     "url": "./static/css/index.1dd7fd66.css"
   },
   {
@@ -24,8 +24,20 @@ self.__precacheManifest = [
     "url": "./static/img/icons/android-chrome-192x192.png"
   },
   {
+    "revision": "83409fb3fe88cb94d7d3df5fe97569c9",
+    "url": "./static/img/icons/apple-touch-icon-152x152.png"
+  },
+  {
     "revision": "efbe0aa485b3aeaceb8ead9191f0c4c0",
     "url": "./static/img/icons/android-chrome-512x512.png"
+  },
+  {
+    "revision": "b451e38c6ee4b03781b1019c518e7894",
+    "url": "./static/img/icons/apple-touch-icon-120x120.png"
+  },
+  {
+    "revision": "0ff69c8fca81469c28f589d5fad0616e",
+    "url": "./static/img/icons/apple-touch-icon-180x180.png"
   },
   {
     "revision": "4dc6fdc67611efce36a3c500cbe1c0ec",
@@ -36,28 +48,16 @@ self.__precacheManifest = [
     "url": "./static/img/icons/apple-touch-icon-76x76.png"
   },
   {
-    "revision": "b451e38c6ee4b03781b1019c518e7894",
-    "url": "./static/img/icons/apple-touch-icon-120x120.png"
-  },
-  {
-    "revision": "83409fb3fe88cb94d7d3df5fe97569c9",
-    "url": "./static/img/icons/apple-touch-icon-152x152.png"
-  },
-  {
     "revision": "047f3021e153c19951f86dd209904243",
     "url": "./static/img/icons/favicon-32x32.png"
   },
   {
-    "revision": "3742528143340e36915adf388d64060f",
-    "url": "./static/img/icons/favicon-16x16.png"
-  },
-  {
-    "revision": "0ff69c8fca81469c28f589d5fad0616e",
-    "url": "./static/img/icons/apple-touch-icon-180x180.png"
-  },
-  {
     "revision": "7264d2ec7553bb96307af4acbe697faf",
     "url": "./static/img/icons/favicon.ico"
+  },
+  {
+    "revision": "3742528143340e36915adf388d64060f",
+    "url": "./static/img/icons/favicon-16x16.png"
   },
   {
     "revision": "fd925e78b4df883980a7e32f6a0b99b3",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "./favicon.ico"
   },
   {
-    "revision": "1a2edc570e2d8fe01cab3fd9f85c0ace",
+    "revision": "c02601a6b16285ea131af46f6a847b60",
     "url": "./index.html"
   }
 ];
