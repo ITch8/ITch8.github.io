@@ -1,4 +1,4 @@
-importScripts("./precache-manifest.93dcd0212a3833f81183e9e85f0c2b52.js");
+importScripts("./precache-manifest.d7b1fa16b68b93e5f8fbd2d00da21873.js");
 
 
         importScripts('./static/workbox-v3.6.3/workbox-sw.js');
@@ -36,7 +36,7 @@ self.addEventListener('message', event => {
 // workbox.routing.registerRoute(/^https:\/\/lavas\.baidu\.com\/some\/api/,
 //     workbox.strategies.networkFirst());
 
-workbox.routing.registerRoute(new RegExp('https://cnodejs.org/api/v1/topics',
+workbox.routing.registerRoute(new RegExp('https://cnodejs.org/api/v1/topics'),
     workbox.strategies.cacheFirst());
 // networkOnly, cacheFirst, cacheOnly, staleWhileRevalidate
 

@@ -4,11 +4,11 @@ self.__precacheManifest = [
     "url": "./static/js/vendor.7c000970.js"
   },
   {
-    "revision": "f702623bdeefedb90276",
-    "url": "./static/js/index.f702623b.js"
+    "revision": "0155a41075eedfeaae3d",
+    "url": "./static/js/index.0155a410.js"
   },
   {
-    "revision": "f702623bdeefedb90276",
+    "revision": "0155a41075eedfeaae3d",
     "url": "./static/css/index.1dd7fd66.css"
   },
   {
@@ -32,10 +32,6 @@ self.__precacheManifest = [
     "url": "./static/img/icons/apple-touch-icon-152x152.png"
   },
   {
-    "revision": "4dc6fdc67611efce36a3c500cbe1c0ec",
-    "url": "./static/img/icons/apple-touch-icon-60x60.png"
-  },
-  {
     "revision": "b451e38c6ee4b03781b1019c518e7894",
     "url": "./static/img/icons/apple-touch-icon-120x120.png"
   },
@@ -44,20 +40,20 @@ self.__precacheManifest = [
     "url": "./static/img/icons/favicon-16x16.png"
   },
   {
-    "revision": "588079df8f1b8fde3b3cd691ee65bf06",
-    "url": "./static/img/icons/apple-touch-icon-76x76.png"
-  },
-  {
-    "revision": "047f3021e153c19951f86dd209904243",
-    "url": "./static/img/icons/favicon-32x32.png"
-  },
-  {
     "revision": "0ff69c8fca81469c28f589d5fad0616e",
     "url": "./static/img/icons/apple-touch-icon-180x180.png"
   },
   {
-    "revision": "7264d2ec7553bb96307af4acbe697faf",
-    "url": "./static/img/icons/favicon.ico"
+    "revision": "588079df8f1b8fde3b3cd691ee65bf06",
+    "url": "./static/img/icons/apple-touch-icon-76x76.png"
+  },
+  {
+    "revision": "4dc6fdc67611efce36a3c500cbe1c0ec",
+    "url": "./static/img/icons/apple-touch-icon-60x60.png"
+  },
+  {
+    "revision": "047f3021e153c19951f86dd209904243",
+    "url": "./static/img/icons/favicon-32x32.png"
   },
   {
     "revision": "fd925e78b4df883980a7e32f6a0b99b3",
@@ -65,10 +61,14 @@ self.__precacheManifest = [
   },
   {
     "revision": "7264d2ec7553bb96307af4acbe697faf",
+    "url": "./static/img/icons/favicon.ico"
+  },
+  {
+    "revision": "7264d2ec7553bb96307af4acbe697faf",
     "url": "./favicon.ico"
   },
   {
-    "revision": "4e4c2ea9edbd2b6a23f9e4e3b235c779",
+    "revision": "e88f7a62357bed895bb29bacefc9ccb7",
     "url": "./index.html"
   }
 ];
