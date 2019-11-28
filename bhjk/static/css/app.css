@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'app-Font'; 
+    src: url('/static/font/PingFangSC-Light.ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+body,.uni-body{ font-family: app-Font, sans-serif; }
+
+.page{
+	height: 100vh;
+}
+
+.text-color-main{
+	color: #2796E9;
+}
+
+.cu-bar{
+	min-height: 90upx;
+}
+
+.bg-blue{
+	background-color:#4DA1FF;
+}
+
+.margin-top-header{
+	margin-top: 90upx;
+}
+
+.cu-card>.cu-item.hover{
+	background-color: #DEDEDE;
+}
+
+.cu-load.load-modal{
+	width: 200upx;height: 200upx;
+	font-size: 24upx;
+}
+.cu-load.load-modal::after{
+	width: 120upx;height: 120upx;
+}
+
+.text-color-7{
+	color: #777777;
+}
+uni-tabbar .uni-tabbar__icon{
+	width: 40upx;
+	height: 44upx;
+}
+.text-color-3{
+	color: #333333;
+}
+.text-color-price{
+	color: #EA252D;
+}
